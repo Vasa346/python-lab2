@@ -31,9 +31,13 @@
 - `task2.py` — класс `Task2` с решением второй задачи.
 
 ## Скриншоты результатов
-*(Скриншот запуска task1.py)*
-*(Скриншот запуска task2.py)*
-*(Скриншот истории коммитов)*
+<img width="921" height="99" alt="изображение" src="https://github.com/user-attachments/assets/daed54ec-95d6-4bce-a141-12574d93963c" />
+<img width="941" height="206" alt="изображение" src="https://github.com/user-attachments/assets/bcda41cb-8033-4c0a-8333-b814b77b55f0" />
+<img width="936" height="138" alt="изображение" src="https://github.com/user-attachments/assets/4f969d6a-99a0-4ac4-aabc-4612b534ba4d" />
+<img width="927" height="485" alt="изображение" src="https://github.com/user-attachments/assets/dc9aec18-cabe-4d3a-93c9-049ae2f0cf68" />
+<img width="928" height="611" alt="изображение" src="https://github.com/user-attachments/assets/33d265fe-1651-4a53-803e-e2d1db48345f" />
+<img width="929" height="141" alt="изображение" src="https://github.com/user-attachments/assets/51c1e610-8a33-49d4-a9bc-e22bb67902b9" />
+
 
 ## Ссылки на используемые материалы
 - [Официальная документация Python](https://docs.python.org/3/)
