@@ -41,7 +41,14 @@
 - `task3.py` — класс `Task3` с решением третьей задачи (маска числа).
 
 ## Скриншоты результатов
-*(Сюда вставить скриншоты через GitHub)*
+1. Запуск task1.py (последовательности)
+<img width="924" height="59" alt="изображение" src="https://github.com/user-attachments/assets/a2772abf-b700-48d4-bd77-e162069d7b7b" />
+
+2. Запуск task2.py (система счисления)
+<img width="932" height="57" alt="изображение" src="https://github.com/user-attachments/assets/099e96f7-a098-49ee-84aa-189a37571631" />
+
+3. Запуск task3.py (маска числа)
+<img width="926" height="158" alt="изображение" src="https://github.com/user-attachments/assets/51488a44-e171-416d-ae3d-7334f42f1cfd" />
 
 ## Ссылки на используемые материалы
 - [Официальная документация Python](https://docs.python.org/3/)
